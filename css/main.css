@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner:wght@400..700&display=swap");
+
+body {
+  background-image: url(../assets/bg.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: "Edu QLD Beginner", cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+}
